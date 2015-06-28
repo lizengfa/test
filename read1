@@ -1,0 +1,3 @@
+read -p "Go ahead: "
+echo "You entered: $REPLY"
+
