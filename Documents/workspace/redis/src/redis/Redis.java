@@ -19,6 +19,8 @@ public class Redis {
 		
 	}
 	
+	
+	
 	public static void hello(){
 		Jedis jedis = pool.getResource();
 		try {
